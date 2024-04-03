@@ -8,8 +8,8 @@ This GitHub profile template is inspired by the layout and design used by [Profa
 
 ## Too long; didn't read:
 - Create a repository named after your GitHub username to unlock a special feature. (Don't forget to select the "Add a README file" option)
-- Copy the code of this template file
-- Paste it in the `README.md` of the repository, preview it to see how it looks.
+- Copy the code of the `Template-Code.html` file of this repository.
+- Paste it in the `README.md` of your repository, preview it to see how it looks.
 - Replace the links and content as per your liking.
 - Star this repository to let me know that you found it useful ;)
 
