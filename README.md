@@ -33,6 +33,8 @@ This GitHub profile template is inspired by the layout and design used by [Profa
 
 Contributions to improve this template are welcome! If you find any issues or have suggestions for enhancements, feel free to open an issue or submit a pull request.
 
+**If you find this template helpful, consider starring the repository. It's the least you can do to show your appreciation!**
+
 ## License
 
 This template is provided under the [MIT License](LICENSE). You are free to use and modify it according to your needs. If you find it helpful, consider starring the repository. Thank you!
