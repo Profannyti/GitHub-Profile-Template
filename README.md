@@ -6,7 +6,12 @@ This GitHub profile template is inspired by the layout and design used by [Profa
 
 # How to Use
 
-## Too long; didn't read:
+## Creating Your GitHub Profile with a Special README
+
+GitHub recently introduced a feature that allows users to customize their profile by adding a special README file to their account repositories. This feature enables you to showcase your projects, skills, and more directly on your GitHub profile, making it more personalized and informative for visitors.
+
+
+## STEPS:
 - Create a repository named after your GitHub username to unlock a special feature. (Don't forget to select the "Add a README file" option)
 - Copy the code of the `Template-Code.html` file of this repository.
 - Paste it in the `README.md` of your repository, preview it to see how it looks.
@@ -14,49 +19,6 @@ This GitHub profile template is inspired by the layout and design used by [Profa
 - Star this repository to let me know that you found it useful ;)
 
 <br></br>
-
-# Detailed Steps
-
-## Creating Your GitHub Profile with a Special README
-
-GitHub recently introduced a feature that allows users to customize their profile by adding a special README file to their account repositories. This feature enables you to showcase your projects, skills, and more directly on your GitHub profile, making it more personalized and informative for visitors.
-
-## Steps to Create Your GitHub Profile with a Special README
-
-### 1. Create a New Repository
-- Log in to your GitHub account.
-- Click on the "+" icon in the upper right corner and select "New repository".
-- Name the repository exactly as your GitHub username. For example, if your GitHub username is "exampleuser", name the repository "exampleuser".
-
-### 2. Initialize with a README
-- Check the option to "Initialize this repository with a README". This will create a README file in your repository.
-
-### 3. Customize the README
-
-1. **Fork the Repository**: Start by forking this repository to your own GitHub account. You can do this by clicking the "Fork" button in the upper right corner of this page.
-
-2. **Clone the Repository**: Once forked, clone the repository to your local machine using Git. You can do this by running the following command in your terminal:
-
-    ```bash
-    git clone https://github.com/YourUsername/YourRepository.git
-    ```
-
-    Replace `YourUsername` with your GitHub username and `YourRepository` with the name of your forked repository.
-
-3. **Customize the Template**:
-    - Replace placeholders such as "Your Name / Project Name" and "Brief introduction or tagline" with your own information in the HTML code provided in `README.md`.
-    - Replace the placeholder URLs for logos with the URLs of the respective logos you want to display. You can use services like [SVG Repo](https://www.svgrepo.com/) or [Devicons](https://devicon.dev/) to find logos for various languages, frameworks, and technologies.
-    - You can add or remove sections as needed to suit your preferences.
-
-4. **Commit and Push Changes**: After customizing the template, commit your changes and push them to your GitHub repository.
-
-    ```bash
-    git add .
-    git commit -m "Updated README with my information"
-    git push origin main
-    ```
-
-5. **Update GitHub Profile**: Finally, navigate to your GitHub profile settings, and under the "Repository visibility" section, select the repository you just forked as the repository you'd like to feature on your profile.
 
 ## Contributions
 
